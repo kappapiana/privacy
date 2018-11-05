@@ -1,15 +1,15 @@
 ---
 title: Informativa
 author: Carlo Piana (©2018)
-documentclass: article
+documentclass: article 
 #institute: Array - https://array.eu
 lang: it
 geometry: a4paper
 ---
 
-# Informativa [^2b876c7d]
+# Informativa [^3d8fd2c8]
 
-[^2b876c7d]: © Carlo Piana 2018 - Creative Commons by-SA 4.0 unported
+[^3d8fd2c8]:  © Carlo Piana 2018 - Creative Commons by-SA 4.0 unported
 
 ## Informazioni da fornire in ogni caso
 

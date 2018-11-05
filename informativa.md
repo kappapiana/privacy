@@ -1,15 +1,15 @@
 ---
 title: Informativa
 author: Carlo Piana (©2018)
-documentclass: article
+documentclass: article 
 #institute: Array - https://array.eu
 lang: it
 geometry: a4paper
 ---
 
-# Informativa
+# Informativa [^3d8fd2c8]
 
-[^2b876c7d]: © Carlo Piana 2018 - Creative Commons by-SA 4.0 unported
+[^3d8fd2c8]:  © Carlo Piana 2018 - Creative Commons by-SA 4.0 unported
 
 ## Informazioni da fornire in ogni caso
 
@@ -19,17 +19,17 @@ geometry: a4paper
 
 ### Gruppo 1
 
-- [x] `a)`	l'identità e i dati di contatto del titolare del trattamento e, ove applicabile, del suo rappresentante;
+- [ ] `a)`	l'identità e i dati di contatto del titolare del trattamento e, ove applicabile, del suo rappresentante;
 
-- [x] `b)`	i dati di contatto del responsabile della protezione dei dati, ove applicabile;
+- [ ] `b)`	i dati di contatto del responsabile della protezione dei dati, ove applicabile;
 
-- [x] `c)`	le finalità del trattamento cui sono destinati i dati personali nonché la base giuridica del trattamento;
+- [ ] `c)`	le finalità del trattamento cui sono destinati i dati personali nonché la base giuridica del trattamento;
 
-- [x] `d)`	qualora il trattamento si basi sull'articolo 6, paragrafo 1, lettera f),[^1223ec3e] i legittimi interessi perseguiti dal titolare del trattamento o da terzi;
+- [ ] `d)`	qualora il trattamento si basi sull'articolo 6, paragrafo 1, lettera f),[^1223ec3e] i legittimi interessi perseguiti dal titolare del trattamento o da terzi;
 
 [^1223ec3e]: `f)` il trattamento è necessario per il perseguimento del legittimo interesse del titolare del trattamento o di terzi, a condizione che non prevalgano gli interessi o i diritti e le libertà fondamentali dell'interessato che richiedono la protezione dei dati personali, in particolare se l'interessato è un minore.
 
-- [x] `e)`	gli eventuali destinatari o le eventuali categorie di destinatari dei dati personali;
+- [ ] `e)`	gli eventuali destinatari o le eventuali categorie di destinatari dei dati personali;
 
 - [ ] `f)`	ove applicabile, l'intenzione del titolare del trattamento di trasferire dati personali a un paese terzo o a un'organizzazione internazionale e l'esistenza o l'assenza di una decisione di adeguatezza della Commissione o, nel caso dei trasferimenti di cui all'articolo 46[^72f0ea25] o 47,[^e7d248d6] o all'articolo 49,[^47e73fae] secondo comma, il riferimento alle garanzie appropriate o opportune e i mezzi per ottenere una copia di tali dati o il luogo dove sono stati resi disponibili.
 
@@ -42,17 +42,17 @@ geometry: a4paper
 - [ ] `a)`	il periodo di conservazione dei dati personali oppure, se non è possibile, i criteri utilizzati per determinare tale periodo;
 
 - [ ] `b)`	l'esistenza del diritto dell'interessato di  chiedere al titolare del trattamento
-    - [x] l'accesso ai dati personali
-    - [x] la rettifica o la cancellazione degli stessi
-    - [x] o la limitazione del trattamento che lo riguardano
-    - [x] o di opporsi al loro trattamento,
-    - [x] oltre al diritto alla portabilità dei dati;
+    - [ ] l'accesso ai dati personali
+    - [ ] la rettifica o la cancellazione degli stessi
+    - [ ] o la limitazione del trattamento che lo riguardano
+    - [ ] o di opporsi al loro trattamento,
+    - [ ] oltre al diritto alla portabilità dei dati;
 
-- [x] `c)`	qualora il trattamento sia basato sull'articolo 6, paragrafo 1, lettera a) `[L'interessato ha prestato il consenso per una o più finalità]`, oppure sull'articolo 9, paragrafo 2, lettera a), `[Consenso per dati sensibili]` l'esistenza del diritto di revocare il consenso in qualsiasi momento senza pregiudicare la liceità del trattamento basata sul consenso prestato prima della revoca;
+- [ ] `c)`	qualora il trattamento sia basato sull'articolo 6, paragrafo 1, lettera a) `[L'interessato ha prestato il consenso per una o più finalità]`, oppure sull'articolo 9, paragrafo 2, lettera a), `[Consenso per dati sensibili]` l'esistenza del diritto di revocare il consenso in qualsiasi momento senza pregiudicare la liceità del trattamento basata sul consenso prestato prima della revoca;
 
-- [x] `d)`	il diritto di proporre reclamo a un'autorità di controllo;
+- [ ] `d)`	il diritto di proporre reclamo a un'autorità di controllo;
 
-- [x] `f)`	l'esistenza di un processo decisionale automatizzato, compresa la profilazione di cui all'articolo 22, paragrafi 1 e 4,[^21eb82c7] e, almeno in tali casi, informazioni significative sulla logica utilizzata, nonché l'importanza e le conseguenze previste di tale trattamento per l'interessato.
+- [ ] `f)`	l'esistenza di un processo decisionale automatizzato, compresa la profilazione di cui all'articolo 22, paragrafi 1 e 4,[^21eb82c7] e, almeno in tali casi, informazioni significative sulla logica utilizzata, nonché l'importanza e le conseguenze previste di tale trattamento per l'interessato.
 
 [^21eb82c7]: ARTICOLO N.22  **Processo decisionale automatizzato** relativo alle persone fisiche, compresa la profilazione **1.** L'interessato ha il diritto di non essere sottoposto a una decisione basata unicamente sul trattamento automatizzato, compresa la profilazione, che produca effetti giuridici che lo riguardano o che incida in modo analogo significativamente sulla sua persona. [...] **4.** Le decisioni di cui al paragrafo 2 non si basano sulle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1 `[origine razziale, etnica, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, biometrici, salute, vita e orientamento sessuale]`, a meno che non sia d'applicazione l'articolo 9, paragrafo 2, lettere a) [consenso] o g) [rilevante interesse pubblico], e non siano in vigore misure adeguate a tutela dei diritti, delle libertà e dei legittimi interessi dell'interessato.
 
@@ -62,7 +62,7 @@ geometry: a4paper
 - **subito o successivamente**, ma prima dell'inizio del trattamento per una nuova finalità,
 Tutto il Gruppo 2 (Art. 13); Inoltre
 
-- [x] `e)`	se la comunicazione di dati personali è un obbligo legale o contrattuale oppure un requisito necessario per la conclusione di un contratto, e se l'interessato ha l'obbligo di fornire i dati personali nonché le possibili conseguenze della mancata comunicazione di tali dati;
+- [ ] `e)`	se la comunicazione di dati personali è un obbligo legale o contrattuale oppure un requisito necessario per la conclusione di un contratto, e se l'interessato ha l'obbligo di fornire i dati personali nonché le possibili conseguenze della mancata comunicazione di tali dati;
 
 `3. Qualora il titolare del trattamento intenda trattare ulteriormente i dati personali per una finalità diversa da quella per cui essi sono stati raccolti, prima di tale ulteriore trattamento fornisce all'interessato informazioni in merito a tale diversa finalità e ogni ulteriore informazione pertinente di cui al paragrafo 2. [Gruppo 2]`
 

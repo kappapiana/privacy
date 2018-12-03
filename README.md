@@ -1,6 +1,6 @@
 ## Readme
 
-Molto semplice. Documenti per gestire la privacy. In markdown (rigorosamente)
+Molto semplice. Documenti per gestire la privacy. In markdown (rigorosamente ‒ il flavor è Pandoc, dunque su Github non viene visto benissimo).
 
 Inizio con un documento informativo che crea una checklist.
 
